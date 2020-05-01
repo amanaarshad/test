@@ -1,0 +1,3 @@
+Scope resolution operator :
+Localhost/ampps.admin/
+There is a section add new domain, here we write php.dev, when we go to php.dev it does not show the Index of/
